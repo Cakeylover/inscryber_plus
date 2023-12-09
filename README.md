@@ -2,7 +2,7 @@
 
 Inscryber is a project intended to allow people to create custom [Inscryption](https://www.inscryption.com/) cards; various information is submitted and cloudinary is used to build an image of a card matching those requirements.
 
-Visit it at [https://www.inscryber.cakeylover.com/](https://www.Cakeylover.github.io).
+Visit it at [https://www.inscryber.plus/](https://www.inscryber.plus).
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
